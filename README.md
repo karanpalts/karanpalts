@@ -40,3 +40,11 @@ End‑to‑end notebooks for EDA, data cleaning/merging, missingness diagnostics
 Small KPI dashboard for inventory, stockouts, and anomaly detection; highlights Kanban gains and monthly cost reduction.
 
 ---
+### SEIS 631 — Projects
+
+- **EDA & Visualization** → [notebooks/01_eda_visualization.ipynb](https://github.com/karanpatls/seis631-portfolio/blob/main/notebooks/01_eda_visualization.ipynb)
+- **Missing Data (MCAR/MAR/MNAR)** → [notebooks/02_missing_data_mcar_mar_mnar.ipynb](https://github.com/karanpatls/seis631-portfolio/blob/main/notebooks/02_missing_data_mcar_mar_mnar.ipynb)
+- **Merging & Cleaning** → [notebooks/03_merging_cleaning_feature_engineering.ipynb](https://github.com/karanpatls/seis631-portfolio/blob/main/notebooks/03_merging_cleaning_feature_engineering.ipynb)
+- **Bootstrapping** → [notebooks/04_bootstrapping.ipynb](https://github.com/karanpatls/seis631-portfolio/blob/main/notebooks/04_bootstrapping.ipynb)
+- **Permutation Tests** → [notebooks/05_permutation_tests.ipynb](https://github.com/karanpatls/seis631-portfolio/blob/main/notebooks/05_permutation_tests.ipynb)
+- **t-tests & χ²** → [notebooks/06_t_tests_and_chi_square.ipynb](https://github.com/karanpatls/seis631-portfolio/blob/main/notebooks/06_t_tests_and_chi_square.ipynb)
